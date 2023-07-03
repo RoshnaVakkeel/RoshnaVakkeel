@@ -1,12 +1,11 @@
 # Roshna_Profile
 
-<!-- [![MasterHead](https://semidotinfotech.com/web/images/frontend_banner.jpg)](https://rishavchanda.io) -->
+[![MasterHead](https://images.pexels.com/photos/7723534/pexels-photo-7723534.jpeg)](Chem-and-codes)
 
 
 
 <h1 align="center">Hi 👋, I'm Roshna Vakkeel</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/7723534/pexels-photo-7723534.jpeg">
 
 ![](https://komarev.com/ghpvc/?username=RoshnaVakkeel&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -38,21 +37,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoshnaVakkeel&show_icons=true&locale=en&layout=compact" alt="RoshnaVakkeel" height="195"/></p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RoshnaVakkeel&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RoshnaVakkeel&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=RoshnaVakkeel&hide_rank=true" />
-  </a>
-</picture>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RoshnaVakkeel&show_icons=true&locale=en" alt="RoshnaVakkeel" /></p>
 
-   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoshnaVakkeel&layout=compact&langs_count=8&card_width=310" />
-  </a>
+
