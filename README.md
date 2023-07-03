@@ -1,9 +1,5 @@
 # Roshna_Profile
 
-[![MasterHead](https://images.pexels.com/photos/7723534/pexels-photo-7723534.jpeg)](Chem-and-codes)
-
-
-
 <h1 align="center">Hi 👋, I'm Roshna Vakkeel</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
