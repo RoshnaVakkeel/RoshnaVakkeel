@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vakkeel.roshna@gmail.com**
 
-- ⚡ Fun fact **I can paint your imaginations on the web**
+- ⚡ Interesting fact -**I can paint your imaginations on the canvas of web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RoshnaVakkeel&show_icons=true&locale=en" alt="RoshnaVakkeel" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RoshnaVakkeel" alt="RoshnaVakkeel" width="700" /></a> </p>
