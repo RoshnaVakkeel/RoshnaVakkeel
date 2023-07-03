@@ -1,5 +1,3 @@
-# Roshna_Profile
-
 <h1 align="center">Hi 👋, I'm Roshna Vakkeel</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
