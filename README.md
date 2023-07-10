@@ -6,13 +6,13 @@
 
 - 🔭 I recently finished studies from **Code Institute, Dublin, Ireland**
 
-- 🌱 I’m currently learning **Django, ReactJS**
+- 🌱 I’m currently practising **Django, ReactJS**
 
 - 💬 Ask me about **HTML, CSS, JS, Python**
 
 - 📫 How to reach me **vakkeel.roshna@gmail.com**
 
-- ⚡ Interesting fact -**I can paint your imaginations on the canvas of web**
+- ⚡ Interesting fact - *I can paint your imaginations on the canvas of web*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
