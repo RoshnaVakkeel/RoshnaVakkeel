@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshna Vakkeel</h1>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h3 align="center">Junior Full Stack Software Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=RoshnaVakkeel&label=Profile%20views&color=0e75b6&style=flat)
 
